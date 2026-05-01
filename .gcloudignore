@@ -1,0 +1,8 @@
+node_modules/
+frontend/web/.next/
+frontend/web/out/
+backend/api/dist/
+.git
+.gitignore
+.dockerignore
+*.log
